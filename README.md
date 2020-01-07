@@ -1,2 +1,4 @@
-# recruit
-For recruitment
+# 株式会社ハグカムの採用のためのリポジトリ（主に開発職）
+
+## 概要
+Job Descriptionなどを載せていく予定
