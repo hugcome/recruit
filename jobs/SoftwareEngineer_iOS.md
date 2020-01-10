@@ -17,7 +17,7 @@ Software Engineer, iOS Application
 - アプリケーションを実装します。
 - ユニットテストなど、標準的な開発手法を使用して開発を進めます。
 
-## Who You Are:
+## Who you are
 - iOSアプリケーションの開発経験
 - MVVM, Clean Architecturなど、モバイルアプリのアーキテクチャに関する知識・経験
 - 要求をアプリケーション仕様に落とすことができる
