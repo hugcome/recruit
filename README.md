@@ -19,5 +19,24 @@ GLOBAL CROWN（グローバルクラウン）は、"子どもが英語を好き�
 [iOSエンジニア](jobs/SoftwareEngineer_iOS.md)  
 [Androidエンジニア](jobs/SoftwareEngineer_Android.md)
 
+## Technologies
+### Web:
+言語  
+Ruby / PHP / JavaScript
+
+フレームワーク・ミドルウェア  
+Ruby on Rails / FuelPHP / React / Vue / Nginx / MySQL / PostgreSQL / Redis
+
+インフラ  
+heroku / GCP
+
+### Mobile:
+言語  
+Objective-C / Swift / Java / Kotlin
+
+
+### Others:
+Python
+
 ## How to apply
 `recruit@hugcome.co.jp` までEmailにて連絡
