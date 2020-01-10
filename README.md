@@ -15,8 +15,8 @@ GLOBAL CROWN（グローバルクラウン）は、"子どもが英語を好き�
 
 ## Opening jobs
 ### 新規プロダクト開発の主軸となって教育の世界を変えたいエンジニアを募集しています！
-[Railsエンジニア](jobs/SoftwareEngineer_Web_Backend.md)
-[iOSエンジニア](jobs/SoftwareEngineer_iOS.md)
+[Railsエンジニア](jobs/SoftwareEngineer_Web_Backend.md)  
+[iOSエンジニア](jobs/SoftwareEngineer_iOS.md)  
 [Androidエンジニア](jobs/SoftwareEngineer_Android.md)
 
 ## How to apply
