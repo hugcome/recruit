@@ -14,9 +14,10 @@ GLOBAL CROWN（グローバルクラウン）は、"子どもが英語を好き�
 など、子どもたちが楽しくかつ成長できるレッスンの仕組みをたくさん用意しています。
 
 ## Opening jobs
-Link to job descriptions
+### 新規プロダクト開発の主軸となって教育の世界を変えたいエンジニアを募集しています！
+[Railsエンジニア](jobs/SoftwareEngineer_Web_Backend.md)
+[iOSエンジニア](jobs/SoftwareEngineer_iOS.md)
+[Androidエンジニア](jobs/SoftwareEngineer_Android.md)
 
 ## How to apply
-Please email to `recruit@hugcome.co.jp`
-
-`curl -X POST -d name="山田 太郎" -d email="xxx@xx.xx" -d comment="iOS Engineerへアプライしたいです" https://recruit.hugcome.co.jp/apply`
+`recruit@hugcome.co.jp` までEmailにて連絡
